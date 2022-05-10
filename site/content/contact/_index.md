@@ -1,6 +1,6 @@
 ---
 title: "Bize Ulaşın"
-logo: "/img/logo.svg"
+logo: "/img/sarikavaklogo.png"
 contact_entries:
   - heading: Adres
     text: "Sahilkent Mh. Fatih Cad. No:97 07760 Finike/Antalya Türkiye"
