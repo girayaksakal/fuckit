@@ -19,13 +19,13 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         #TODO 5
-  heading: TODO 6
+  heading: Favoriler
   description: >
-    #TODO 7
+    En çok tercih edilen ürünlerimiz
 main:
-  heading: Kaliteli gübre hem de hiçbir şeyden taviz vermeden
+  heading: Kaliteli gübre
   description: >
-    #TODO 8
+    Hem de hiçbir şeyden taviz vermeden
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -44,32 +44,30 @@ testimonials:
       Ürünü beğendim ve gönderici firma da harikaydı.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: TODO
+  heading: Abonelikler
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Yalnızlığını borçlarla gideren Giray(c.c) için bağışta bulunun!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'Yarım ekmek'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Asgari ödeme tutarının yarısını yatır
+        - 1 ay daha sabret
+        - Öldürmez ama yaşatmaz da
+      plan: Haciz desteği
+      price: '350'
+    - description: 'Kocaman bir kalbi olanlardan kocaman destek'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Asgari ödeme tutarının tamamını yatır
+        - Giray'ın ölmesini engelle
+        - Büyük dertten kurtarır
+      plan: Kocaman
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Yalnızlığımı borçla gidermemin önüne geç
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Borcun istediğin kadarını yatır
+        - Giray'ın kredi kartını kapatmasında yardımcı ol
+        - Giray'ın sevgisini kazan <3
+      plan: Sewgi
       price: '?'
 ---
 
