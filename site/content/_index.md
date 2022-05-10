@@ -4,10 +4,10 @@ subtitle: Yüksek verimli mahsülünüz için yüksek verimli çözümler
 image: /img/background.jpeg
 blurb:
     heading: Neden Sarıkavak?
-    text: "#TODO"
+    text: "#TODO fuck"
 intro:
     heading: "Çözümlerimiz"
-    text: "#TODO"
+    text: "#TODO todo"
 products:
     - image: img/fısfıs.jpeg
       text: "#TODO"
