@@ -9,7 +9,7 @@ intro:
     heading: "Çözümlerimiz"
     text: "#TODO"
 products:
-    - image: img/yarensarhosdegil.png
+    - image: img/fısfıs.jpeg
       text: "#TODO"
     - image: /img/yarensarhos.png
       text: "#TODO"
