@@ -9,16 +9,16 @@ intro:
   blurbs:
     - image: /img/levo-mg.jpeg
       text: >
-        #TODO 2
+        Magnezyum Sülfat Çözeltisi
     - image: /img/levo-cu.jpeg
       text: >
-        #TODO 3
+        Kalsiyum Nitrat Çözeltisi
     - image: /img/levo-ca.jpeg
       text: >
-        #TODO 4
+        Bakırlı Gübre Çözeltisi
     - image: /img/levo-add.jpeg
       text: >
-        #TODO 5
+        İz Element Kompleksi
   heading: Favoriler
   description: >
     En çok tercih edilen ürünlerimiz
@@ -28,13 +28,13 @@ main:
     Hem de hiçbir şeyden taviz vermeden
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/  #FILL
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/  #FILL
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/levo-all.jpeg
 testimonials:
   - author: Mert Alp Barakazi
     quote: >-
