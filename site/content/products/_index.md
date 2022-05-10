@@ -2,12 +2,12 @@
 title: Ürünlerimiz
 type: products
 image: /img/products-jumbotron.jpg
-heading: Sunduklarımız
+heading: Ürünlerimiz
 description: >-
   #TODO 1
 intro:
   blurbs:
-    - image: /img/levo-mg.jpeg
+    - image: /img/levo_mg.jpeg
       text: >
         Magnezyum Sülfat Çözeltisi
     - image: /img/levo-cu.jpeg
@@ -28,10 +28,10 @@ main:
     Hem de hiçbir şeyden taviz vermeden
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/  #FILL
+    image: /img/yaren1.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/  #FILL
+    image: /img/yaren2.png
   image3:
     alt: Coffee beans
     image: /img/levo-all.jpeg
