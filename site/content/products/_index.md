@@ -7,16 +7,16 @@ description: >-
   #TODO 1
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/levo-mg.jpeg
       text: >
         #TODO 2
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/levo-cu.jpeg
       text: >
         #TODO 3
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/levo-ca.jpeg
       text: >
         #TODO 4
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/levo-add.jpeg
       text: >
         #TODO 5
   heading: Favoriler
@@ -54,14 +54,14 @@ pricing:
         - 1 ay daha sabret
         - Öldürmez ama yaşatmaz da
       plan: Haciz desteği
-      price: '350'
+      price: '400'
     - description: 'Kocaman bir kalbi olanlardan kocaman destek'
       items:
         - Asgari ödeme tutarının tamamını yatır
         - Giray'ın ölmesini engelle
         - Büyük dertten kurtarır
       plan: Kocaman
-      price: '80'
+      price: '800'
     - description: Yalnızlığımı borçla gidermemin önüne geç
       items:
         - Borcun istediğin kadarını yatır
