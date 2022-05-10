@@ -9,9 +9,9 @@ intro:
     heading: "Çözümlerimiz"
     text: "#TODO"
 products:
-    - image: img/illustrations-coffe.png
+    - image: img/yarensarhosdegil.png
       text: "#TODO"
-    - image: /img/illustrations-coffe-gear.png
+    - image: /img/yarensarhos.png
       text: "#TODO"
 values:
     heading: Hakkımızda
