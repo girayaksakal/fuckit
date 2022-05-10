@@ -1,6 +1,6 @@
 ---
 title: "Bize Ulaşın"
-logo: "/img/sarikavaklogo.png"
+logo: "/img/logo-sarikavak.png"
 contact_entries:
   - heading: Adres
     text: "Sahilkent Mh. Fatih Cad. No:97 07760 Finike/Antalya Türkiye"
@@ -10,8 +10,8 @@ contact_entries:
            Pazar günleri kapalıyız"
 ---
 
-YAZI 1
+YAZI #1
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-YAZI 2
+YAZI #2
