@@ -42,7 +42,7 @@ testimonials:
   - author: Levent Özada
     quote: >-
       Ürünü beğendim ve gönderici firma da harikaydı.
-full_image: /img/products-full-width.jpg
+full_image: /img/levo-pro.jpeg
 pricing:
   heading: Abonelikler
   description: >-
